@@ -14,10 +14,10 @@ As a tropical metrorologist and a climate scientist, my research goals are to
 2) better inform regional impacts of climate changes
 
 Email: zhouwy1128@gmail.com    
-[Google Scholar]<br />
-[CV]
+[Google Scholar]      
+[CV](https://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true)
 
 [Shang-Ping Xie]: http://scrippsscholars.ucsd.edu/sxie/
 [Isaac Held]: https://www.gfdl.noaa.gov/isaac-held-homepage/
 [Google Scholar]: https://scholar.google.com/citations?user=qlLj08YAAAAJ&hl=en
-[CV]: http://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true
+
