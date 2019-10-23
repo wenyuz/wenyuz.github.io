@@ -20,5 +20,5 @@ Email: zhouwy1128@gmail.com
 [Shang-Ping Xie]: http://scrippsscholars.ucsd.edu/sxie/
 [Isaac Held]: https://www.gfdl.noaa.gov/isaac-held-homepage/
 [Google Scholar]: https://scholar.google.com/citations?user=qlLj08YAAAAJ&hl=e
-[CV]: https://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true
+[CV]: http://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true
 
