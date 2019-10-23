@@ -14,7 +14,7 @@ As a tropical metrorologist and a climate scientist, my research goals are to
 2) better inform regional impacts of climate changes
 
 Email: zhouwy1128@gmail.com    
-[Google Scholar][\br ]
+[Google Scholar]<br />
 [CV]
 
 [Shang-Ping Xie]: http://scrippsscholars.ucsd.edu/sxie/
