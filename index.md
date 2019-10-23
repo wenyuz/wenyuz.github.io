@@ -5,8 +5,6 @@ permalink: /
 
 {% include image.html url="images/IMG_1116.jpg" width="200px" align="right" %}
 
-{% include embedpdf.html source="https://github.com/gchauras/cv/blob/master/GauravChaurasiaCV.pdf?raw=true" width=100 height=900 %}
-
 I work on Earth & Environmental Sciences at Lawrence Berkeley Lab.   
 I was a Postdoc at UC San Diego, working with [Shang-Ping Xie].   
 I completed my PhD at Princeton University, advised by [Isaac Held]. 
