@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /misc/
+permalink: /cod/
 ---
 
 ## Sports
