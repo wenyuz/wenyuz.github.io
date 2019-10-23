@@ -3,14 +3,14 @@ layout: page
 permalink: /
 ---
 
-{% include image.html url="images/IMG_1116.jpg" width="280px" align="right" %}
-## About Me
+{% include image.html url="images/IMG_1116.jpg" width="200px" align="right" %}
+
 I work on Earth & Environmental Sciences at Lawrence Berkeley Lab.   
 I was a Postdoc at UC San Diego, working with [Shang-Ping Xie].   
 I completed my PhD at Princeton University, advised by [Isaac Held]. 
 
-As a tropical metrorologist and a climate scientist, my research goals are to 
-1) deepen our understnading of tropical climate and weather
+As a tropical metrorologist and a climate scientist, my research goals are to    
+1) deepen our understnading of tropical climate and weather     
 2) better inform regional impacts of climate changes
 
 Email: zhouwy1128@gmail.com    
