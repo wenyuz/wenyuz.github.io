@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /publication/
 ---
 ## Peer reviewed publications
 
