@@ -8,7 +8,7 @@ permalink: /publication/
 
 [15] <span style="text-decoration: underline">Zhou, W.</span>* (2019), _**Contrasting ITCZ changes over recent decades and under global warming**_. In Preparation.
 
-[14] <span style="text-decoration: underline">Zhou, W.</span>*, S-P Xie and D. Yang (2019), _**Enhanced equatorial warming causes deep-tropical contraction and subtropical monsoon shift**_. Nature Climate Change, 1-6. [[Link](https://www.nature.com/articles/s41558-019-0603-9).]
+[14] <span style="text-decoration: underline">Zhou, W.</span>*, S-P Xie and D. Yang (2019), _**Enhanced equatorial warming causes deep-tropical contraction and subtropical monsoon shift**_. Nature Climate Change, 1-6. [[Link](https://www.nature.com/articles/s41558-019-0603-9)]
 
 [13] Amaya, D., Kosaka Y., <span style="text-decoration: underline">W. Zhou</span>, Y. Zhang, S-P Xie, and A. J. Miller (2019), _**The Pacific Meridional Mode pacemaker effect on historical ENSO**_. Journal of Climate, 32 (22), 7643-7661. [[link](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0040.1?af=R&mobileUi=0)]
 
