@@ -8,11 +8,10 @@ Jump to [Tropical Dynamics](#fundamental-physics-of-tropical-climate-and-weather
 
 ---      
 
-## Fundamental Physics of Tropical Climate and Weather    
+# Fundamental Physics of Tropical Climate and Weather    
 
 
 -----
-## Predictive Understanding of Regional Climate Change
+# Predictive Understanding of Regional Climate Change
 
------
 
