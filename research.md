@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /research/   
-
 ---     
 
 Jump to [Tropical Dynamics](#fundamental-physics-of-tropical-climate-and-weather), [Regional Climate Change](#predictive-understanding-of-regional-climate-change)
