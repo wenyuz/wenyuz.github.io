@@ -1,6 +1,6 @@
-title: Gaurav Chaurasia
-description: Gaurav Chaurasia's webpage
-sourcecode: "https://github.com/gchauras/gchauras.github.io"
+title: Wenyu Zhou
+description: Wenyu Zhou's webpage
+sourcecode: "https://wenyuz.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
@@ -11,7 +11,7 @@ baseurl: ""                     # the subpath of your site, e.g. /blog
 # baseurl: ""
 
 author:
-    name: Gaurav Chaurasia
+    name: Wenyu Zhou
     facebook: gchauras
     scholar: pBaL_DgAAAAJ
 
