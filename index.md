@@ -15,7 +15,7 @@ As a tropical metrorologist and a climate scientist, my research goals are to
 
 Email: zhouwy1128@gmail.com    
 [Google Scholar]    
-[CV](http://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true)
+[CV](http://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true)   
 {% include embedpdf.html source="https://github.com/gchauras/cv/blob/master/GauravChaurasiaCV.pdf?raw=true" width=100 height=900 %}
 
 [Shang-Ping Xie]: http://scrippsscholars.ucsd.edu/sxie/
