@@ -74,7 +74,7 @@ teaching:
 
 publications:
     - title:   Contrasting ITCZ changes over recent decades and under global warming
-      author:  _Zhou W._
+      author:  <span style="text-decoration: underline">Zhou W.</span>
       journal: In Preparation
       note:
       year:    2019
