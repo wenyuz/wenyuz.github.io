@@ -5,6 +5,8 @@ permalink: /
 
 {% include image.html url="images/IMG_1116.jpg" width="200px" align="right" %}
 
+{% include embedpdf.html source="https://github.com/gchauras/cv/blob/master/GauravChaurasiaCV.pdf?raw=true" width=100 height=900 %}
+
 I work on Earth & Environmental Sciences at Lawrence Berkeley Lab.   
 I was a Postdoc at UC San Diego, working with [Shang-Ping Xie].   
 I completed my PhD at Princeton University, advised by [Isaac Held]. 
@@ -15,9 +17,9 @@ As a tropical metrorologist and a climate scientist, my research goals are to
 
 Email: zhouwy1128@gmail.com    
 [Google Scholar]    
-[CV](http://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true)   
-{% include embedpdf.html source="https://github.com/gchauras/cv/blob/master/GauravChaurasiaCV.pdf?raw=true" width=100 height=900 %}
+[CV]
 
 [Shang-Ping Xie]: http://scrippsscholars.ucsd.edu/sxie/
 [Isaac Held]: https://www.gfdl.noaa.gov/isaac-held-homepage/
 [Google Scholar]: https://scholar.google.com/citations?user=qlLj08YAAAAJ&hl=en
+[CV]: http://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true
