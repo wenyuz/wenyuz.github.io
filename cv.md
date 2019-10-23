@@ -2,7 +2,12 @@
 layout: page
 permalink: /cv/
 ---
+[Fundamental Physics of Tropical Climate and Weather](#Fundamental-Physics-of-Tropical-Climate-and-Weather), [Predictive Understanding of Regional Climate Change](#Predictive-Understanding-of Regional-Climate-Change)
+---
+## Fundamental Physics of Tropical Climate and Weather
 
-Download [PDF version](https://github.com/gchauras/cv/blob/master/GauravChaurasiaCV.pdf?raw=true).
+-----
+## Predictive Understanding of Regional Climate Change
 
-{% include embedpdf.html source="https://github.com/gchauras/cv/blob/master/GauravChaurasiaCV.pdf?raw=true" width=100 height=900 %}
+-----
+
