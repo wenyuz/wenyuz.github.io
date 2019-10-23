@@ -1,16 +1,6 @@
 ---
 layout: page
 permalink: /research/
-pubs:
-
-    - title:   "Perception of perspective distortions in image-based rendering"
-      author:  "P. Vangorp, C. Richardt, EA Cooper, G. Chaurasia, MS Banks, G. Drettakis"
-      journal: "ACM Transactions on Graphics"
-      note:    "SIGGRAPH"
-      year:    "2013"
-      url:     "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/"
-      doi:     "http://dx.doi.org/10.1145/2461912.2461971"
-      image:   "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/experiment.png"
 ---
 ## Peer reviewed publications
 
