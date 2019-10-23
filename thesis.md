@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/thesis/
+permalink: /publication/thesis/
 title: "Algorithms & Perceptual Analysis for Interactive Free Viewpoint Image-Based Navigation"
 ---
 
