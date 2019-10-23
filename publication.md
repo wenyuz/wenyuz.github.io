@@ -9,7 +9,7 @@ permalink: /publication/
 {% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
 {% endif %} -->
 {{pub.author}}<br />
-**{{pub.title}}**<br />
+<span style="text-decoration: underline">{{pub.title}}</span><br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
