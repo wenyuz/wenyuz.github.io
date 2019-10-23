@@ -4,9 +4,9 @@ permalink: /publication/
 ---     
 {% assign<span style="text-decoration: underline">underlined text</span> thumbnail="right" %}
 
-[15] <span style="text-decoration: underline">Zhou, W.</span>*, D. Yang, S-P Xie and J. Ma (2019), **Eastward teleconnection shift intensifies MJO impacts on Pacific-North America**. In Preparation.
+[15] <span style="text-decoration: underline">Zhou, W.</span>*, D. Yang, S-P Xie and J. Ma (2019), **Eastward teleconnection shift intensifies MJO impacts on Pacific-North America**. *In Preparation*.
 
-[15] <span style="text-decoration: underline">Zhou, W.</span>* (2019), **Contrasting ITCZ changes over recent decades and under global warming**. In Preparation.
+[15] <span style="text-decoration: underline">Zhou, W.</span>* (2019), **Contrasting ITCZ changes over recent decades and under global warming**. *In Preparation*.
 
 [14] <span style="text-decoration: underline">Zhou, W.</span>*, S-P Xie and D. Yang (2019), **Enhanced equatorial warming causes deep-tropical contraction and subtropical monsoon shift**. *Nature Climate Change*, 1-6.
 
