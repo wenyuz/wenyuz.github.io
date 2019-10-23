@@ -1,268 +1,90 @@
-name: Gaurav Chaurasia
-affiliation: Oculus
-address: Zurich, Switzerland
-email: gchauras@csail.mit.edu
-web: http://people.csail.mit.edu/gchauras/
+name: Wenyu Zhou
+affiliation: Lawrence Berkeley National Lab
+email: wenyuzhou@lbl.gov
+web: https://wenyuz.github.io
 
 research_interests:
-    - Computer vision and machine learning for VR and related applications.
-    - 3D reconstruction and fitting to RGB-D data.
-    - Neural networks for 2D/3D synthesis.
-    - Hardware acceleration -- compilers, GPGPU, ARM-optimisation.
+    - Tropical meorology
+    - Climate dynamics
+    - Regional climate change
+    - Large-scale atmospheric dynamics
 
 education:
-    - date:         2010-2014
-      title:        Ph.D in Computer Science
-      affiliation:  INRIA
-      location:     Sophia Antipolis, France
-      mentor:       Dr. George Drettakis
-      thesis:       Algorithms and perceptual analysis for interactive free viewpoint image-based navigation
-    - date:         2009-2010
-      title:        M.Sc in Computer Science
-      affiliation:  ENSIMAG
-      location:     Grenoble, France
+    - date:         2010-2015
+      title:        Ph.D in Atmospheric and Oceanic Scienes
+      affiliation:  Princeton University
+      location:     Princeton, USA
+      mentor:       Isaac Held
+      thesis:       Non-rotating and rotating raditive-convective equilibrium
+    - date:         2006-2010
+      title:        B.E in Hydrology
+      affiliation:  Tsinghua University
+      location:     Beijing, China
       mentor:
       thesis:
-    - date:         2005-2009
-      title:        B.Tech in Computer Science
-      affiliation:  Indian Institute of Technology Delhi
-      location:     New Delhi, India
-      mentor:       Prof. Subodh Kumar
-      thesis:       Real time traffic simulation
 
 positions:
-    - date:         2018-till date
-      title:        Computer Vision
-      affiliation:  Oculus
-      location:     Zurich, Switzerland
+    - date:         2019-till date
+      title:        Project Scientist
+      affiliation:  Lawrence Berkeley National Lab
+      location:     San Francisco, USA
       mentor:
       notes:
-    - date:         2015-2017
-      title:        Associate Research Scientist (computer vision)
-      affiliation:  Disney Research Zurich
-      location:     Zurich, Switzerland
-      mentor:
-      notes:
-    - date:         2014-2015
-      title:        Postdoctoral Associate
-      affiliation:  Massachusetts Institute of Technology
-      location:     Cambridge MA, USA
-      mentor:       Prof. Fr{\'e}do Durand
+    - date:         2016-2019
+      title:        Postdoc
+      affiliation:  Scripps Institution of Oceanography, UC San Diego
+      location:     San Diego, USA
+      mentor:       Shang-Ping Xie
       notes:
 
-visiting_positions:
-    - date:         Aug 2013
-      title:        Visiting student
-      affiliation:  Massachusetts Institute of Technology
-      location:     Cambridge MA, USA
-      mentor:       Prof. Fr{\'e}do Durand
-      notes:        Parallel execution of non-parallel recursive filters.
-    - date:         Aug 2012
-      title:        Visiting student
-      affiliation:  University of California Berkeley
-      location:     Berkeley CA, USA
-      mentor:       Prof. Ravi Ramamoorthi
-      notes:        Procedural noise functions for synthesizing non-Gaussian textures.
-    - date:         Feb-Jun 2010
-      title:        Research intern
-      affiliation:  INRIA
-      location:     Sophia Antipolis, France
-      mentor:       Dr. George Drettakis
-      notes:        Image-based rendering for urban scenes.
-    - date:         Summer 2008
-      title:        Intern (Embedded graphics group)
-      affiliation:  Nvidia
-      location:     Bangalore, India
-      mentor:
-      notes:        OpenGL-ES extensions for GPU driver for embedded systems, OpenGL-ES 2.0 conformance test suite bugs.
-    - date:         Summer 2007
-      title:        Research intern
-      affiliation:  Dublin City University
-      location:     Dublin, Ireland
-      mentor:       Dr. Derek Molloy
-      notes:        Memory exercises as 3D games and user studies to test effect of 3D user interfaces on human recall.
+# visiting_positions:
+#     - date:         Aug 2013
+#       title:        Visiting student
+#       affiliation:  Massachusetts Institute of Technology
+#       location:     Cambridge MA, USA
+#       mentor:       Prof. Fr{\'e}do Durand
+#       notes:        Parallel execution of non-parallel recursive filters.
+
 
 teaching:
-    - date:   Autumn 2016
-      title:  Advanced Topics in Computer Graphics and Vision Seminar
-      url:    https://graphics.ethz.ch/teaching/seminarAS16/home.php
-      number: 252-5701-00L
-      school: ETH Zurich
-    - date:   Spring 2016
-      title:  Advanced Topics in Computer Graphics Seminar
-      url:    https://graphics.ethz.ch/teaching/seminarSS16/home.php
-      number: 252-5704-00L
-      school: ETH Zurich
-    - date:   Spring 2015
-      title:  Digital and Computational Photography
-      url:    https://stellar.mit.edu/S/course/6/sp15/6.815/index.html
-      number: 6.815/6.865
-      school: MIT
+    - date:   Autumn 2017
+      title:  Guest Lecture: Atmosphere-Ocean Interaction
+      url:  
+      school: UC San Diego
 
-supervised_theses:
-    - date:   Spring 2017
-      author: Andrin Jenal
-      title:  RNN-based generative model for learning and synthesis of tree skeletons
-      school: Master's thesis, ETH Zurich
+    - date:   Autumn 2017
+      title:  Guest Lecture: Atmosphere-Ocean Interaction
+      url:  
+      school: UC San Diego  
 
-technical_skills:
-    - C++
-    - Matlab
-    - Python
-    - OpenGL
-    - GLSL
-    - CUDA
-    - OpenCV
-    - LaTeX
-    - Git
-    - SVN
-    - Bash
-    - Vim
-    - Java
-    - Visual Studio
+# supervised_theses:
+#     - date:   Spring 2017
+#       author: Andrin Jenal
+#       title:  RNN-based generative model for learning and synthesis of tree skeletons
+#       school: Master's thesis, ETH Zurich
 
-awards:
-    - date:   Aug 2010
-      detail: PhD fellowship (\textit{Allocation de Recherche}) by the French ministry for PhD studies.
-    - date:   Aug 2009
-      detail: Scholarship of Excellence (\textit{Bourse d'Excellence}) by ENSIMAG for Master's studies.
-    - date:   May 2007
-      detail: Scholarship for 12 week research internship `ODCSSS-07' in Dublin by Science Foundation of Ireland.
-    - date:   Jun 2005
-      detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
+# technical_skills:
+#     - C++
+#     - Matlab
+#     - Python
+
+# awards:
+#     - date:   Aug 2010
+#       detail: PhD fellowship (\textit{Allocation de Recherche}) by the French ministry for PhD studies.
 
 publications:
-    - title:   RNN-based generative model for fine-grained sketching
-      author:  A. Jenal, N. Savinov, T. Sattler, G. Chaurasia
-      journal: under preparation
+    - title:   Contrasting ITCZ changes over recent decades and under global warming
+      author:  Zhou W.
+      journal: In Preparation
       note:
-      year:    2018
-    - title:   Editable parametric dense foliage from 3D capture
-      author:  G. Chaurasia, P. Beardsley
-      journal: IEEE International Conference on Computer Vision
-      note:    ICCV
-      year:    2017
-      url:     https://www.disneyresearch.com/publications/parametric-foliage/
-      doi:     http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html
-      media:
-        - name: TechCrunch
-          url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
-    - title:   Deep joint demosaicking and denoising
-      author:  M. Gharbi, G. Chaurasia, S. Paris, F. Durand
-      journal: ACM Transactions on Graphics
-      note:    SIGGRAPH Asia
-      year:    2016
-      url:     https://groups.csail.mit.edu/graphics/demosaicnet/
-      doi:     http://dx.doi.org/10.1145/2980179.2982399
-    - title:   Underwater 3D capture using a low-cost commercial depth camera
-      author:  ST Digumarti, G. Chaurasia, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley
-      journal: IEEE Winter Conference on Applications of Computer Vision
-      note:    WACV
-      year:    2016
-      doi:     http://dx.doi.org/10.1109/WACV.2016.7477644
-      url:     https://www.disneyresearch.com/publication/underwater-3d-capture/
-      image:   https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160304050935/Underwater-3D-Capture-using-a-Low-Cost-Commercial-Depth-Camera-Image.png
-      media:
-        - name: Phys
-          url:  http://phys.org/news/2016-03-disney-depth-cameras-depths-high-accuracy.html
-        - name: ScientificComputing
-          url:  http://www.scientificcomputing.com/news/2016/03/disney-takes-cameras-depths-high-accuracy-3-d-capture
-        - name: Eurekalert
-          url:  http://www.eurekalert.org/pub_releases/2016-03/dr-drt030916.php
-        - name: AzoSensors
-          url:  http://www.azosensors.com/news.aspx?newsID=10925
-        - name: EScienceNews
-          url:  http://esciencenews.com/sources/physorg/2016/03/09/disney.researchers.take.depth.cameras.depths.high.accuracy.3.d.capture
-        - name: ScienceCodex
-          url:  http://www.sciencecodex.com/disney_researchers_take_depth_cameras_into_the_depths_for_highaccuracy_3d_capture-177491
-    - title:   Transform recipes for efficient cloud photo enhancement
-      author:  M. Gharbi, Y. Shih, G. Chaurasia, J. Ragan-Kelley, S. Paris, F. Durand
-      journal: ACM Transactions on Graphics
-      note:    SIGGRAPH Asia
-      year:    2015
-      url:     https://groups.csail.mit.edu/graphics/xform_recipes/
-      doi:     http://dx.doi.org/10.1145/2816795.2818127
-      image:   http://people.csail.mit.edu/jrk/xform_thumb.png
-      media:
-        - name: Phys
-          url:  http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html
-    - title:   Multi view intrinsic decomposition and relighting
-      author:  S. Duchene, C. Riant, G. Chaurasia, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis
-      journal: ACM Transactions on Graphics
-      note:    presented at SIGGRAPH
-      year:    2015
-      url:     http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/
-      doi:     http://dx.doi.org/10.1145/2790060.2790063
-      image:   http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg
-    - title:   Compiling high performance recursive filters
-      author:  G. Chaurasia, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand
-      journal: High Performance Graphics
-      year:    2015
-      url:     http://mit-gfx.github.io/recfilter/
-      doi:     http://dx.doi.org/10.1145/2790060.2790063
-      image:   http://www-sop.inria.fr/reves/Basilic/2015/CRPDD15a/image.jpg
-    - title:   Is it possible to use highly realistic virtual reality in the elderly? A feasibility study with image-based rendering
-      author:  M. Benoit, R. Guerchouche, PD Petit, E. Chapoulie, V. Manera, G. Chaurasia, G. Drettakis, P. Robert
-      journal: Journal of Neuropsychiatric Disease and Treatment
-      year:    2015
-      url:     http://www.dovepress.com/articles.php?article_id=20707
-      doi:     http://dx.doi.org/10.2147/NDT.S73179
-      image:   http://www-sop.inria.fr/reves/Basilic/2015/BGPCMCDR15/Benoit.jpg
-    - title:   Reminiscence therapy using image-based rendering in VR
-      author:  E. Chapoulie, R. Guerchouche, PD Petit, G. Chaurasia, P. Robert, G. Drettakis
-      journal: IEEE Virtual Reality
-      year:    2014
-      url:     http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/
-      doi:     http://dx.doi.org/10.1109/VR.2014.6802049
-      image:   http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/teaser.jpg
-    - title:   Depth synthesis and local warps for plausible image-based navigation
-      author:  G. Chaurasia, S. Duchene, O. Sorkine-Hornung, G. Drettakis
-      journal: ACM Transactions on Graphics
-      note:    presented at SIGGRAPH
-      year:    2013
-      url:     http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/
-      doi:     http://dx.doi.org/10.1145/2487228.2487238
-      image:   http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/museum.jpg
-    - title:   Perception of perspective distortions in image-based rendering
-      author:  P. Vangorp, C. Richardt, EA Cooper, G. Chaurasia, MS Banks, G. Drettakis
-      journal: ACM Transactions on Graphics
-      note:    SIGGRAPH
-      year:    2013
-      url:     http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/
-      doi:     http://dx.doi.org/10.1145/2461912.2461971
-      image:   http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/experiment.png
-    - title:   Silhouette-aware warping for image-based rendering
-      author:  G. Chaurasia, O. Sorkine, G. Drettakis
-      journal: Computer Graphics Forum
-      note:    EGSR
-      year:    2011
-      url:     http://www-sop.inria.fr/reves/Basilic/2011/CSD11/
-      doi:     http://dx.doi.org/10.1111/j.1467-8659.2011.01981.x
-      image:   http://www-sop.inria.fr/reves/Basilic/2011/CSD11/result_tree.jpg
-    - title:   Perception of visual artifacts in image-based rendering of facades
-      author:  P. Vangorp, G. Chaurasia, PY Laffont, R. Fleming, G. Drettakis
-      journal: Computer Graphics Forum
-      note:    EGSR
-      year:    2011
-      url:     http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/
-      doi:     http://dx.doi.org/10.1111/j.1467-8659.2011.01983.x
-      image:   http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/VCLFD11-teaser.png
-    - title:   A multimode immersive conceptual design system for architectural modeling and lighting
-      author:  M. Cabral, P. Vangorp, G. Chaurasia, E. Chapoulie, M. Hachet, G. Drettakis
-      journal: IEEE Symposium on 3D User Interfaces
-      note:    IEEE 3DUI
-      year:    2011
-      url:     http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/
-      doi:     http://dx.doi.org/10.1109/3DUI.2011.5759211
-      image:   http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/emmanuelle2.jpg
-    - title:   Virtual chaotic traffic simulation
-      author:  G. Chaurasia, BR Selvamani, N. Gupta, S. Kumar
-      journal: Indian Conference on Computer Vision, Graphics and Image Processing
-      note:    ICVGIP
-      year:    2010
-      url:     /research/traffsim/
-      doi:     http://dx.doi.org/10.1145/1924559.1924604
-      internal: 1
+      year:    2019
+    - title:   Enhanced equatorial warming causes deep-tropical contraction and subtropical monsoon shift.
+      author:  Zhou W., S-P Xie, D. Ynag
+      journal: Nature Climate Change
+      note:    
+      year:    2019
+      url:     https://www.nature.com/articles/s41558-019-0603-9
+      doi:     https://github.com/wenyuz/wenyuz.github.io/tree/master/files/ncc_eww.pdf?raw=true
 
 talks:
     - venue:  Microsoft Research Redmond
