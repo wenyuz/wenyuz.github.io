@@ -15,9 +15,9 @@ As a tropical metrorologist and a climate scientist, my research goals are to
 
 Email: zhouwy1128@gmail.com    
 [Google Scholar]    
-[CV]
+[CV](http://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true)
+{% include embedpdf.html source="https://github.com/gchauras/cv/blob/master/GauravChaurasiaCV.pdf?raw=true" width=100 height=900 %}
 
 [Shang-Ping Xie]: http://scrippsscholars.ucsd.edu/sxie/
 [Isaac Held]: https://www.gfdl.noaa.gov/isaac-held-homepage/
 [Google Scholar]: https://scholar.google.com/citations?user=qlLj08YAAAAJ&hl=en
-[CV]:https://github.com/wenyuz/wenyuz.github.io/blob/master/CV.pdf?raw=true
