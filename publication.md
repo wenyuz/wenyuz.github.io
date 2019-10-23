@@ -2,9 +2,8 @@
 layout: page
 permalink: /publication/
 
----
-# Peer reviewed publications
-
+---     
+# Peer reviewed publications    
 {% assign thumbnail="right" %}
 
 {% for pub in site.data.cv.publications %}
@@ -19,8 +18,8 @@ permalink: /publication/
 
 {% endfor %}
 
------
 
+-----
 # Doctoral thesis
 
 **Algorithms & perceptual analysis for interactive free viewpoint image-based navigation** [[web]({{ "/research/thesis/" | prepend: site.baseurl}})]<br />
