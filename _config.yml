@@ -1,5 +1,5 @@
 title: Wenyu Zhou
-description: Wenyu Zhou's webpage
+# description: Wenyu Zhou's webpage
 sourcecode: "https://wenyuz.github.io"
 
 permalink: blog/:year/:month/:day/:title
