@@ -86,144 +86,21 @@ publications:
       url:     https://www.nature.com/articles/s41558-019-0603-9
       doi:     https://github.com/wenyuz/wenyuz.github.io/tree/master/files/ncc_eww.pdf?raw=true
 
-talks:
-    - venue:  Microsoft Research Redmond
-      date:   July 19, 2013
-      url:    http://research.microsoft.com/apps/video/dl.aspx?id=198331
-    - venue:  MIT CSAIL
-      date:   Sept 11, 2013
-      url:    /research/talks/csail_2013/
-      internal: 1
+# talks:
+#     - venue:  Microsoft Research Redmond
+#       date:   July 19, 2013
+#       url:    http://research.microsoft.com/apps/video/dl.aspx?id=198331
 
-reviews:
-    grants:
-        - title: National Science Foundation (USA)
-          years:
-            - year: 2017
-          url: https://www.nsf.gov
-        - title: Agence Nationale de la Recherche (France)
-          years:
-            - year: 2018
-          url: http://www.agence-nationale-recherche.fr
-    journal:
-        - title: ACM Transactions on Graphics
-          url:   http://tog.acm.org
-          years:
-            - year: 2016
-            - year: 2017
-            - year: 2018
-        - title: ACM Transactions on Applied Perception
-          url:   http://tap.acm.org
-          years:
-            - year: 2014
-        - title: IEEE Transations on Image Processing
-          url:   https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83
-          years:
-            - year: 2018
-        - title: IEEE Transactions on Visualization and Computer Graphics
-          url:   http://www.computer.org/web/tvcg
-          years:
-            - year: 2015
-            - year: 2016
-        - title: Computer Graphics Forum
-          url:   http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659
-          years:
-            - year: 2015
-        - title: The Visual Computer
-          url:   http://link.springer.com/journal/371
-          years:
-            - year: 2016
-            - year: 2017
-        - title: Computers and Graphics
-          url:   http://www.journals.elsevier.com/computers-and-graphics/
-          years:
-            - year: 2015
-            - year: 2017
-        - title: IEEE Signal Processing Letters
-          url:   http://www.signalprocessingsociety.org/publications/periodicals/letters/
-          years:
-            - year: 2015
-        - title: Journal of Signal Image and Video Processing
-          url:   http://www.springer.com/engineering/signals/journal/11760
-          years:
-            - year: 2013
 
-    conference:
-        - title: CVPR
-          years:
-            - year: 2018
-              url: http://cvpr2018.thecvf.com/
-        - title: ACCV
-          years:
-            - year: 2018
-              url: http://accv2018.net/
-        - title: SIGGRAPH
-          years:
-            - year: 2012
-              url:  http://s2012.siggraph.org/
-            - year: 2016
-              url:  http://s2016.siggraph.org/
-        - title: SIGGRAPH Asia
-          years:
-            - year: 2013
-              url:  http://sa2013.siggraph.org/en/
-            - year: 2016
-              url:  http://sa2016.siggraph.org/en/
-            - year: 2017
-              url:  http://sa2017.siggraph.org
-            - year: 2018
-              url:  http://sa2018.siggraph.org
-            - year: 2019
-              url:  http://sa2019.siggraph.org
-        - title: Eurographics
-          years:
-            - year: 2012
-              url:  http://www.eurographics2012.it/
-            - year: 2016
-              url:  http://eurographics2016.pt/
-        - title: Pacific Graphics
-          years:
-            - year: 2014
-              url:  http://graphics.ewha.ac.kr/PG14/
-            - year: 2015
-              url:  http://cg.cs.tsinghua.edu.cn/pg2015/
-            - year: 2016
-              url:  https://indico.oist.jp/indico/event/0/
-        - title: High Performance Graphics
-          years:
-            - year: 2016
-              url:  http://www.highperformancegraphics.org/2016/
-        - title: Virtual Reality Science and Technology (VRST)
-          years:
-            - year: 2016
-              url:  http://www.vrst2016.lrz.de/
+
 
 references:
-    - name:  Dr. George Drettakis
-      title: Senior Researcher, INRIA Sophia Antipolis, France
-      www:   http://www-sop.inria.fr/members/George.Drettakis/
-      mail:  george.drettakis@inria.fr
-    - name:  Prof. Fr{\'e}do Durand
-      title: Professor, Massachusetts Institute of Technology, Cambridge MA, USA
-      www:   http://people.csail.mit.edu/fredo/
-      mail:  fredo@mit.edu
-    - name:  Dr. Sylvain Paris
-      title: Senior Researcher, Adobe Research, Cambridge MA, USA
-      www:   http://people.csail.mit.edu/sparis/
-      mail:  sparis@adobe.com
-    - name:  Ryan Brown
-      title: Site Lead, Oculus Zurich
-      www:   https://www.linkedin.com/in/ryanhbrown
-      mail:
-    - name:  Dr. Alexander Sorkine-Hornung
-      title: Technical Lead, Oculus Zurich
-      www:   http://www.ahornung.net/
-      mail:
-    - name:  Prof. Dr. Markus Gross
-      title: Professor, ETH Zurich and Vice President, Disney Research, Zurich, Switzerland
-      www:   https://www.disneyresearch.com/people/markus-gross/
-      mail:  markus.gross@disneyresearch.com
-    - name:  Dr. Paul Beardsley
-      title: Principal Research Scientist, Disney Research, Zurich, Switzerland
-      www:   https://www.disneyresearch.com/people/paul-beardsley/
-      mail:  pab@disneyresearch.com
+    - name:  Prof. Isaac Held
+      title: Senior Meteorologist, GFDL, USA
+      www:   
+      mail:  isaac.held@noaa.gov
+    - name:  Prof. Shang-Ping Xie
+      title: Professor, UC San Diego, USA
+      www:   
+      mail:  sxie@ucsd.edu
+
