@@ -4,7 +4,7 @@ permalink: /publication/
 ---     
 {% assign<span style="text-decoration: underline">underlined text</span> thumbnail="right" %}
 
-[15] <span style="text-decoration: underline">Zhou, W.</span>*, D. Yang, S-P Xie and J. Ma (2019), _**Eastward teleconnection shift intensifies MJO impacts on Pacific-North America**_. In Preparation.
+[16] <span style="text-decoration: underline">Zhou, W.</span>*, D. Yang, S-P Xie and J. Ma (2019), _**Eastward teleconnection shift intensifies MJO impacts on Pacific-North America**_. In Preparation.
 
 [15] <span style="text-decoration: underline">Zhou, W.</span>* (2019), _**Contrasting ITCZ changes over recent decades and under global warming**_. In Preparation.
 
