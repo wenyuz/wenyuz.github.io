@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-{% include image.html url="images/IMG_1116.jpg" width="200px" align="right" %}
+{% include image.html url="images/IMG_8081.jpg" width="200px" align="right" %}
 
 I work on Earth & Environmental Sciences at Lawrence Berkeley Lab.   
 I was a Postdoc at UC San Diego, working with [Shang-Ping Xie](http://scrippsscholars.ucsd.edu/sxie/).   
