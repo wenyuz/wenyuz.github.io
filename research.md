@@ -3,9 +3,9 @@ layout: page
 permalink: /research/  
 --- 
 
-I study fundamental dynamics underlying intricate tropical phenomena, using idealized models that distill particular processes. My research _challenged the conventional understanding of TC interactions with ocean mixed layer and atmospheric wind shears_, and _explained conceptually how the observed monsoon extent emerges from effects of individual ingredients_. 
+I study fundamental dynamics underlying intricate tropical phenomena, using idealized models that distill particular processes. My research challenged the conventional understanding of _ __TC interactions with ocean mixed layer and atmospheric wind shears__ _, and explained conceptually _ __how the observed monsoon extent emerges from effects of individual ingredients__ _. 
 
-I look into alterations in atmospheric dynamics over a broad spectrum of spatial and temporal scales that lead to profound changes of regional climate. This includes _an unexpected early-summer Hadley contraction that shifts the subtropical monsoon equatorward_, _an eastward shift in the MJO teleconnection that amplifies MJO impacts on the Pacific-North America region_, and _changes in local radiative-convective processes that intensify tropical convection and affect diurnal and seasonal amplitude of land temperature_. 
+I look into alterations in atmospheric dynamics over a broad spectrum of spatial and temporal scales that lead to profound changes of regional climate. This includes _ __an unexpected early-summer Hadley contraction__ _ that shifts the subtropical monsoon equatorward, _ __an eastward shift in the MJO teleconnection__ _ that amplifies MJO impacts on the Pacific-North America region, and _ __changes in local radiative-convective processes__ _ that intensify tropical convection and affect diurnal and seasonal amplitude of land temperature. 
 
 Besides these projects focused on atmospheric dynamics, my research also touched upon _remote effect of the extratropical land on the deep-tropical rainfall_ and _interactions between atmospheric jets and extratropical ocean circulation_.
 
