@@ -3,16 +3,25 @@ layout: page
 permalink: /research/  
 --- 
 
-## Overview
+My research has two main themes: 1) to deepen our understanding of tropical dynamics and 2) to better inform regional climate changes under anthropogenic warming. For tropical dynamics, I aim to expose fundamental dynamics underlying intricate tropical phenomena, using idealized models that distill particular processes. My research challenged the conventional understanding of TC interactions with ocean mixed layer and atmospheric wind shears, and explained conceptually how the observed monsoon extent emerges from effects of individual ingredients such as seasonal insolation, land-sea geometry and soil moisture. For regional climate change, I look into alterations in atmospheric dynamics over a broad spectrum of spatial and temporal scales that lead to profound changes of regional climate. My work has identified an unexpected early-summer contraction in the planetary-scale Hadley circulation that shifts the subtropical monsoon equatorward, an eastward shift in the Madden-Julian Oscillation (MJO) teleconnection that amplifies MJO impacts on the Pacific-North America region, and changes in local radiative-convective processes that intensify tropical extreme convection and affect the diurnal and seasonal amplitude of land temperature. Besides these projects focused on atmospheric dynamics, my research also touched upon remote effect of the extratropical land on the deep-tropical rainfall and interactions between atmospheric jets and extratropical ocean circulation.
+
+-----
+## TC interactions with ocean mixed layer and atmospheric wind shears
+
+-----
+## Monsoon extent as an emergent profuct of individual ingredient
+
+-----
+## Seasonal-dependent meridional shift in the subtropical circulation
+
+-----
+## Eastward shift in the extratropical teleconnection of the Madden-Julian Oscillation (MJO)
+
+-----
+## Local changes in the radiative-convective equilibrium
 
 -----
 
-## Tropical Dynamics
 
-TCs are a major threat to coastal populations. One difficulty for studying TCs is that they are often embedded in complex and evolving large-scale state, which prevent a clear view of their interactions with environmental factors. By coupling radiative-convective physics to f-plane dynamics, I developed an idealized model that simulates a world filled with TCs but without large-scale flows. It allows me to study fundamental dynamics of TCs and their sensitivity to specific environmental factors. Based on this framework, I have identified limitations in classic theories of TC intensity and structure [1]. Moreover, by coupling the surface with ocean, I studied how the surface cooling near the eyewall weakens the TC intensity. To my surprise, a stratified atmospheric boundary layer develops and limits the weakening [2]. In another work, by introducing vertical wind shears, I illustrated that the sensitivity of TC genesis to the large-scale thermodynamic state is distinct between conditions without and with wind shears, which profoundly alter the procedure of the TC genesis [3]. In the future, I plan to apply this framework more widely to questions such as how the insolation diurnal cycle and island topography influence TCs.
-
-
------
-## Reigonal Climate Change
 
 
