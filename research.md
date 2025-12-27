@@ -13,16 +13,10 @@ Besides these projects focused on atmospheric dynamics, my research also touched
 # Distill TC dynamic in idealized models
 
 -----
-# Monsoon extent as an emergent profuct of individual ingredient
-
------
 # Seasonal dependent meridional shift in the subtropical circulation
 
 -----
 # Eastward shift in the MJO teleconnection 
-
------
-# Local changes in the radiative convective processes
 
 -----
 
