@@ -5,13 +5,10 @@ permalink: /
 
 {% include image.html url="images/IMG_8081.jpeg" width="200px" align="right" %}
 
-I work on Earth & Environmental Sciences at Lawrence Berkeley Lab.   
-I was a Postdoc at UC San Diego, working with [Shang-Ping Xie](http://scrippsscholars.ucsd.edu/sxie/).   
-I completed my PhD at Princeton University, advised by [Isaac Held](https://www.gfdl.noaa.gov/isaac-held-homepage/).   
+I am a Research Scientist in [Atmospheric, Climate, and Earth Sciences Division] (https://www.pnnl.gov/atmospheric-climate-and-earth-sciences-division) at [Pacific Northwest National Laboratory] (https://www.pnnl.gov/). Before this, I was a Project Scientist at Lawrence Berkeley National Laboratory and a Postdoc at UC San Diego, working with [Shang-Ping Xie](http://scrippsscholars.ucsd.edu/sxie/). I completed my PhD on Atmospheric and Oceanic Sciences at Princeton University, advised by [Isaac Held](https://www.gfdl.noaa.gov/isaac-held-homepage/).   
 
-I seek to understand the formation, variability and change of the climate system. My research has looked into      
-1) Physics of tropical phenomena, like hurricanes and monsoons       
-2) Changes in regional climate under anthropogenic warming
+
+I am interested in large-scale climate dynamics.
 
 
 Email: zhouwy1128@gmail.com    
